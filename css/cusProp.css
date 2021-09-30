@@ -1,0 +1,13 @@
+:root {
+    /* primary colors */
+    --Pink: hsl(322, 100%, 66%);
+    /* neutral color */
+    --VeryPaleCyan: hsl(193, 100%, 96%);
+    --VeryDarkCyan: hsl(192, 100%, 9%);
+    --GrayishBlue: hsl(208, 11%, 55%);
+    --whiteColor: hsl(0, 0%, 100%);
+
+    /* font family */
+    --poppins: 'Poppins', sans-serif;
+    --openSans: 'Open Sans', sans-serif;
+}
